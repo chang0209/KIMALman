@@ -2,3 +2,4 @@ gradio
 pillow
 opencv-python
 numpy
+google-generativeai
